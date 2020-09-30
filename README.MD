@@ -12,7 +12,7 @@
 </p>
 -------
 
-# Actor Messaging platform
+# Actor Messaging platform very useful
 
 Actor is a platform for instant messaging. Actor provides features like:
 * large group chats; 
